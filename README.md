@@ -1,1 +1,3 @@
-cute panda
+cute panda.
+my panda.
+bamboo
